@@ -1,6 +1,6 @@
-import { task } from "./task"
+import { task} from "./task"
 
-export const TASK:[task] =[
+export const Tasks:task [] =[
     {
         id: 1,
         text:"modulo Html,css",
